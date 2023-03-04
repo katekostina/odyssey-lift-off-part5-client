@@ -1,5 +1,8 @@
 # Odyssey Lift-off V (Client): Road to production
 
+Deployed here:
+https://odyssey-lift-off-part5-client-production-c82b.up.railway.app/
+
 Welcome to the companion app of Odyssey Lift-off V (client)! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part5), Apollo's learning platform.
 
 You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
